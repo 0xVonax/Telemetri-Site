@@ -1,4 +1,4 @@
-# Telemetri Arayüzü
+# Telemetri Interface
 
-# Proje Özeti
-Teknofest Elektrikli Araç yarışları için okulumuzun geliştirdiği elektrikli aracın Hız,Batarya Sıcaklığı,Batarya Gerilimi,Batarya Yüzdesi,Kalan Tahmini Pil Ömrü,Pedallara Basma Yüzdesi,Direksiyon Yönü gibi verilerin göstergeler halinde gösterileceği ve yarış sırasındaki tüm verilerin kaydının bir dosya şeklinde indirilebileceği bir Telemetri arayüzü geliştirdik.Aracın üzerinde bulunana nodeMCU internet modülü sayesinde araçtaki verileri alıp Firebase'deki veritabanımıza gönderdik ve sitemiz üzerinde de bu verileri göstergeler şeklinde gösterdik.
+# Project Summary
+For Teknofest Electric Vehicle races, we have developed a Telemetry interface where data such as Speed, Battery Temperature, Battery Voltage, Battery Percentage, Remaining Battery Life, Pedal Pressing Percentage, Steering Direction of the electric vehicle developed by our school will be displayed as indicators and all data during the race can be downloaded in the form of a file. .Thanks to the nodeMCU internet module on the vehicle, we took the data in the vehicle and sent it to our database in Firebase and displayed these data as indicators on our site.
